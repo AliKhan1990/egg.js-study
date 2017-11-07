@@ -1,0 +1,269 @@
+{
+  "keys": "/Users/aliomarkhan/Desktop/experiment/egg-example/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/aliomarkhan/Desktop/experiment/egg-example/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/aliomarkhan/Desktop/experiment/egg-example/config/config.default.js"
+    },
+    "root": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/Users/aliomarkhan/Desktop/experiment/egg-example/config/config.default.js",
+    "serverUrl": "/Users/aliomarkhan/Desktop/experiment/egg-example/config/config.default.js"
+  },
+  "middleware": "/Users/aliomarkhan/Desktop/experiment/egg-example/config/config.default.js",
+  "robot": {
+    "ua": "/Users/aliomarkhan/Desktop/experiment/egg-example/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-multipart/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "private": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "webstorm-disable-index": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "stop": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "dev": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "debug": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "test": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "cov": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "lint": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "ci": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "autod": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "url": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "coreMiddleware": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "responseTimeout": "/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg/config/config.default.js"
+  }
+}

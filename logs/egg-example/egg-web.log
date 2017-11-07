@@ -1,0 +1,305 @@
+2017-11-07 15:11:32,281 INFO 92656 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:11:32,335 INFO 92656 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:11:32,335 INFO 92656 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:11:32,400 INFO 92656 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:11:32,405 INFO 92656 [egg-security] use csrf middleware
+2017-11-07 15:11:32,406 INFO 92656 [egg-security] use methodnoallow middleware
+2017-11-07 15:11:32,407 INFO 92656 [egg-security] use noopen middleware
+2017-11-07 15:11:32,407 INFO 92656 [egg-security] use nosniff middleware
+2017-11-07 15:11:32,409 INFO 92656 [egg-security] use xssProtection middleware
+2017-11-07 15:11:32,409 INFO 92656 [egg-security] use xframe middleware
+2017-11-07 15:11:32,410 INFO 92656 [egg-security] use dta middleware
+2017-11-07 15:11:32,410 INFO 92656 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:11:32,447 INFO 92656 [egg-watcher:app] watcher start success
+2017-11-07 15:39:48,779 INFO 92913 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:39:48,812 INFO 92913 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:39:48,812 INFO 92913 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:39:48,879 INFO 92913 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:39:48,884 INFO 92913 [egg-security] use csrf middleware
+2017-11-07 15:39:48,886 INFO 92913 [egg-security] use methodnoallow middleware
+2017-11-07 15:39:48,887 INFO 92913 [egg-security] use noopen middleware
+2017-11-07 15:39:48,888 INFO 92913 [egg-security] use nosniff middleware
+2017-11-07 15:39:48,889 INFO 92913 [egg-security] use xssProtection middleware
+2017-11-07 15:39:48,889 INFO 92913 [egg-security] use xframe middleware
+2017-11-07 15:39:48,890 INFO 92913 [egg-security] use dta middleware
+2017-11-07 15:39:48,890 INFO 92913 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:39:48,926 INFO 92913 [egg-watcher:app] watcher start success
+2017-11-07 15:40:56,573 INFO 92927 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:40:56,605 INFO 92927 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:40:56,605 INFO 92927 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:40:56,644 INFO 92927 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:40:56,649 INFO 92927 [egg-security] use csrf middleware
+2017-11-07 15:40:56,649 INFO 92927 [egg-security] use methodnoallow middleware
+2017-11-07 15:40:56,650 INFO 92927 [egg-security] use noopen middleware
+2017-11-07 15:40:56,650 INFO 92927 [egg-security] use nosniff middleware
+2017-11-07 15:40:56,650 INFO 92927 [egg-security] use xssProtection middleware
+2017-11-07 15:40:56,651 INFO 92927 [egg-security] use xframe middleware
+2017-11-07 15:40:56,651 INFO 92927 [egg-security] use dta middleware
+2017-11-07 15:40:56,651 INFO 92927 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:40:56,688 INFO 92927 [egg-watcher:app] watcher start success
+2017-11-07 15:42:06,429 INFO 92948 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:42:06,457 INFO 92948 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:42:06,457 INFO 92948 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:42:06,491 INFO 92948 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:42:06,494 INFO 92948 [egg-security] use csrf middleware
+2017-11-07 15:42:06,495 INFO 92948 [egg-security] use methodnoallow middleware
+2017-11-07 15:42:06,495 INFO 92948 [egg-security] use noopen middleware
+2017-11-07 15:42:06,496 INFO 92948 [egg-security] use nosniff middleware
+2017-11-07 15:42:06,496 INFO 92948 [egg-security] use xssProtection middleware
+2017-11-07 15:42:06,496 INFO 92948 [egg-security] use xframe middleware
+2017-11-07 15:42:06,497 INFO 92948 [egg-security] use dta middleware
+2017-11-07 15:42:06,497 INFO 92948 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:42:06,526 INFO 92948 [egg-watcher:app] watcher start success
+2017-11-07 15:42:23,776 INFO 92961 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:42:23,805 INFO 92961 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:42:23,805 INFO 92961 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:42:23,843 INFO 92961 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:42:23,845 INFO 92961 [egg-security] use csrf middleware
+2017-11-07 15:42:23,847 INFO 92961 [egg-security] use methodnoallow middleware
+2017-11-07 15:42:23,847 INFO 92961 [egg-security] use noopen middleware
+2017-11-07 15:42:23,847 INFO 92961 [egg-security] use nosniff middleware
+2017-11-07 15:42:23,848 INFO 92961 [egg-security] use xssProtection middleware
+2017-11-07 15:42:23,848 INFO 92961 [egg-security] use xframe middleware
+2017-11-07 15:42:23,848 INFO 92961 [egg-security] use dta middleware
+2017-11-07 15:42:23,848 INFO 92961 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:42:23,889 INFO 92961 [egg-watcher:app] watcher start success
+2017-11-07 15:48:45,656 INFO 93020 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:48:45,687 INFO 93020 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:48:45,687 INFO 93020 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:48:45,722 INFO 93020 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:48:45,725 INFO 93020 [egg-security] use csrf middleware
+2017-11-07 15:48:45,726 INFO 93020 [egg-security] use methodnoallow middleware
+2017-11-07 15:48:45,726 INFO 93020 [egg-security] use noopen middleware
+2017-11-07 15:48:45,726 INFO 93020 [egg-security] use nosniff middleware
+2017-11-07 15:48:45,727 INFO 93020 [egg-security] use xssProtection middleware
+2017-11-07 15:48:45,727 INFO 93020 [egg-security] use xframe middleware
+2017-11-07 15:48:45,727 INFO 93020 [egg-security] use dta middleware
+2017-11-07 15:48:45,727 INFO 93020 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:48:45,762 INFO 93020 [egg-watcher:app] watcher start success
+2017-11-07 15:50:12,133 INFO 93034 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:50:12,168 INFO 93034 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:50:12,168 INFO 93034 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:50:12,210 INFO 93034 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:50:12,213 INFO 93034 [egg-security] use csrf middleware
+2017-11-07 15:50:12,214 INFO 93034 [egg-security] use methodnoallow middleware
+2017-11-07 15:50:12,214 INFO 93034 [egg-security] use noopen middleware
+2017-11-07 15:50:12,214 INFO 93034 [egg-security] use nosniff middleware
+2017-11-07 15:50:12,215 INFO 93034 [egg-security] use xssProtection middleware
+2017-11-07 15:50:12,215 INFO 93034 [egg-security] use xframe middleware
+2017-11-07 15:50:12,216 INFO 93034 [egg-security] use dta middleware
+2017-11-07 15:50:12,216 INFO 93034 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:50:12,250 INFO 93034 [egg-watcher:app] watcher start success
+2017-11-07 15:50:27,245 INFO 93045 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:50:27,275 INFO 93045 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:50:27,275 INFO 93045 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:50:27,309 INFO 93045 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:50:27,312 INFO 93045 [egg-security] use csrf middleware
+2017-11-07 15:50:27,313 INFO 93045 [egg-security] use methodnoallow middleware
+2017-11-07 15:50:27,313 INFO 93045 [egg-security] use noopen middleware
+2017-11-07 15:50:27,313 INFO 93045 [egg-security] use nosniff middleware
+2017-11-07 15:50:27,314 INFO 93045 [egg-security] use xssProtection middleware
+2017-11-07 15:50:27,314 INFO 93045 [egg-security] use xframe middleware
+2017-11-07 15:50:27,315 INFO 93045 [egg-security] use dta middleware
+2017-11-07 15:50:27,315 INFO 93045 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:50:27,350 INFO 93045 [egg-watcher:app] watcher start success
+2017-11-07 15:50:30,795 INFO 93045 [egg-view-nunjucks] loading templates from ["/Users/aliomarkhan/Desktop/experiment/egg-example/app/view"]
+2017-11-07 15:52:06,203 INFO 93065 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:52:06,231 INFO 93065 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:52:06,231 INFO 93065 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:52:06,265 INFO 93065 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:52:06,268 INFO 93065 [egg-security] use csrf middleware
+2017-11-07 15:52:06,268 INFO 93065 [egg-security] use methodnoallow middleware
+2017-11-07 15:52:06,269 INFO 93065 [egg-security] use noopen middleware
+2017-11-07 15:52:06,269 INFO 93065 [egg-security] use nosniff middleware
+2017-11-07 15:52:06,270 INFO 93065 [egg-security] use xssProtection middleware
+2017-11-07 15:52:06,271 INFO 93065 [egg-security] use xframe middleware
+2017-11-07 15:52:06,272 INFO 93065 [egg-security] use dta middleware
+2017-11-07 15:52:06,272 INFO 93065 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:52:06,302 INFO 93065 [egg-watcher:app] watcher start success
+2017-11-07 15:52:13,306 INFO 93071 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:52:13,334 INFO 93071 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:52:13,334 INFO 93071 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:52:13,371 INFO 93071 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:52:13,373 INFO 93071 [egg-security] use csrf middleware
+2017-11-07 15:52:13,374 INFO 93071 [egg-security] use methodnoallow middleware
+2017-11-07 15:52:13,375 INFO 93071 [egg-security] use noopen middleware
+2017-11-07 15:52:13,376 INFO 93071 [egg-security] use nosniff middleware
+2017-11-07 15:52:13,376 INFO 93071 [egg-security] use xssProtection middleware
+2017-11-07 15:52:13,377 INFO 93071 [egg-security] use xframe middleware
+2017-11-07 15:52:13,377 INFO 93071 [egg-security] use dta middleware
+2017-11-07 15:52:13,377 INFO 93071 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:52:13,412 INFO 93071 [egg-watcher:app] watcher start success
+2017-11-07 15:53:56,434 INFO 93089 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:53:56,466 INFO 93089 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:53:56,466 INFO 93089 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:53:56,503 INFO 93089 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:53:56,506 INFO 93089 [egg-security] use csrf middleware
+2017-11-07 15:53:56,507 INFO 93089 [egg-security] use methodnoallow middleware
+2017-11-07 15:53:56,508 INFO 93089 [egg-security] use noopen middleware
+2017-11-07 15:53:56,508 INFO 93089 [egg-security] use nosniff middleware
+2017-11-07 15:53:56,509 INFO 93089 [egg-security] use xssProtection middleware
+2017-11-07 15:53:56,509 INFO 93089 [egg-security] use xframe middleware
+2017-11-07 15:53:56,510 INFO 93089 [egg-security] use dta middleware
+2017-11-07 15:53:56,510 INFO 93089 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:53:56,547 INFO 93089 [egg-watcher:app] watcher start success
+2017-11-07 15:54:25,524 INFO 93097 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:54:25,552 INFO 93097 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:54:25,552 INFO 93097 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:54:25,589 INFO 93097 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:54:25,592 INFO 93097 [egg-security] use csrf middleware
+2017-11-07 15:54:25,593 INFO 93097 [egg-security] use methodnoallow middleware
+2017-11-07 15:54:25,593 INFO 93097 [egg-security] use noopen middleware
+2017-11-07 15:54:25,594 INFO 93097 [egg-security] use nosniff middleware
+2017-11-07 15:54:25,595 INFO 93097 [egg-security] use xssProtection middleware
+2017-11-07 15:54:25,596 INFO 93097 [egg-security] use xframe middleware
+2017-11-07 15:54:25,596 INFO 93097 [egg-security] use dta middleware
+2017-11-07 15:54:25,596 INFO 93097 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:54:25,628 INFO 93097 [egg-watcher:app] watcher start success
+2017-11-07 15:55:14,534 INFO 93109 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:55:14,563 INFO 93109 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:55:14,563 INFO 93109 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:55:14,597 INFO 93109 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:55:14,600 INFO 93109 [egg-security] use csrf middleware
+2017-11-07 15:55:14,600 INFO 93109 [egg-security] use methodnoallow middleware
+2017-11-07 15:55:14,601 INFO 93109 [egg-security] use noopen middleware
+2017-11-07 15:55:14,601 INFO 93109 [egg-security] use nosniff middleware
+2017-11-07 15:55:14,602 INFO 93109 [egg-security] use xssProtection middleware
+2017-11-07 15:55:14,602 INFO 93109 [egg-security] use xframe middleware
+2017-11-07 15:55:14,603 INFO 93109 [egg-security] use dta middleware
+2017-11-07 15:55:14,603 INFO 93109 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:55:14,633 INFO 93109 [egg-watcher:app] watcher start success
+2017-11-07 15:55:24,046 INFO 93115 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:55:24,078 INFO 93115 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:55:24,078 INFO 93115 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:55:24,115 INFO 93115 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:55:24,119 INFO 93115 [egg-security] use csrf middleware
+2017-11-07 15:55:24,120 INFO 93115 [egg-security] use methodnoallow middleware
+2017-11-07 15:55:24,120 INFO 93115 [egg-security] use noopen middleware
+2017-11-07 15:55:24,121 INFO 93115 [egg-security] use nosniff middleware
+2017-11-07 15:55:24,121 INFO 93115 [egg-security] use xssProtection middleware
+2017-11-07 15:55:24,122 INFO 93115 [egg-security] use xframe middleware
+2017-11-07 15:55:24,122 INFO 93115 [egg-security] use dta middleware
+2017-11-07 15:55:24,122 INFO 93115 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:55:24,156 INFO 93115 [egg-watcher:app] watcher start success
+2017-11-07 15:57:21,919 INFO 93145 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:57:21,947 INFO 93145 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:57:21,947 INFO 93145 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:57:21,987 INFO 93145 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:57:21,990 INFO 93145 [egg-security] use csrf middleware
+2017-11-07 15:57:21,991 INFO 93145 [egg-security] use methodnoallow middleware
+2017-11-07 15:57:21,991 INFO 93145 [egg-security] use noopen middleware
+2017-11-07 15:57:21,994 INFO 93145 [egg-security] use nosniff middleware
+2017-11-07 15:57:21,996 INFO 93145 [egg-security] use xssProtection middleware
+2017-11-07 15:57:21,996 INFO 93145 [egg-security] use xframe middleware
+2017-11-07 15:57:21,997 INFO 93145 [egg-security] use dta middleware
+2017-11-07 15:57:21,997 INFO 93145 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:57:22,032 INFO 93145 [egg-watcher:app] watcher start success
+2017-11-07 15:57:47,149 INFO 93152 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:57:47,180 INFO 93152 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:57:47,180 INFO 93152 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:57:47,218 INFO 93152 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:57:47,221 INFO 93152 [egg-security] use csrf middleware
+2017-11-07 15:57:47,222 INFO 93152 [egg-security] use methodnoallow middleware
+2017-11-07 15:57:47,222 INFO 93152 [egg-security] use noopen middleware
+2017-11-07 15:57:47,222 INFO 93152 [egg-security] use nosniff middleware
+2017-11-07 15:57:47,223 INFO 93152 [egg-security] use xssProtection middleware
+2017-11-07 15:57:47,223 INFO 93152 [egg-security] use xframe middleware
+2017-11-07 15:57:47,224 INFO 93152 [egg-security] use dta middleware
+2017-11-07 15:57:47,224 INFO 93152 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:57:47,257 INFO 93152 [egg-watcher:app] watcher start success
+2017-11-07 15:58:13,863 INFO 93165 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 15:58:13,892 INFO 93165 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 15:58:13,892 INFO 93165 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 15:58:13,931 INFO 93165 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 15:58:13,933 INFO 93165 [egg-security] use csrf middleware
+2017-11-07 15:58:13,934 INFO 93165 [egg-security] use methodnoallow middleware
+2017-11-07 15:58:13,934 INFO 93165 [egg-security] use noopen middleware
+2017-11-07 15:58:13,935 INFO 93165 [egg-security] use nosniff middleware
+2017-11-07 15:58:13,935 INFO 93165 [egg-security] use xssProtection middleware
+2017-11-07 15:58:13,936 INFO 93165 [egg-security] use xframe middleware
+2017-11-07 15:58:13,936 INFO 93165 [egg-security] use dta middleware
+2017-11-07 15:58:13,936 INFO 93165 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 15:58:13,973 INFO 93165 [egg-watcher:app] watcher start success
+2017-11-07 16:00:05,654 INFO 93185 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 16:00:05,696 INFO 93185 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 16:00:05,696 INFO 93185 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 16:00:05,741 INFO 93185 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 16:00:05,744 INFO 93185 [egg-security] use csrf middleware
+2017-11-07 16:00:05,744 INFO 93185 [egg-security] use methodnoallow middleware
+2017-11-07 16:00:05,745 INFO 93185 [egg-security] use noopen middleware
+2017-11-07 16:00:05,745 INFO 93185 [egg-security] use nosniff middleware
+2017-11-07 16:00:05,746 INFO 93185 [egg-security] use xssProtection middleware
+2017-11-07 16:00:05,747 INFO 93185 [egg-security] use xframe middleware
+2017-11-07 16:00:05,747 INFO 93185 [egg-security] use dta middleware
+2017-11-07 16:00:05,747 INFO 93185 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 16:00:05,784 INFO 93185 [egg-watcher:app] watcher start success
+2017-11-07 16:00:12,025 INFO 93195 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 16:00:12,054 INFO 93195 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 16:00:12,054 INFO 93195 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 16:00:12,092 INFO 93195 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 16:00:12,095 INFO 93195 [egg-security] use csrf middleware
+2017-11-07 16:00:12,095 INFO 93195 [egg-security] use methodnoallow middleware
+2017-11-07 16:00:12,096 INFO 93195 [egg-security] use noopen middleware
+2017-11-07 16:00:12,097 INFO 93195 [egg-security] use nosniff middleware
+2017-11-07 16:00:12,097 INFO 93195 [egg-security] use xssProtection middleware
+2017-11-07 16:00:12,098 INFO 93195 [egg-security] use xframe middleware
+2017-11-07 16:00:12,098 INFO 93195 [egg-security] use dta middleware
+2017-11-07 16:00:12,098 INFO 93195 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 16:00:12,134 INFO 93195 [egg-watcher:app] watcher start success
+2017-11-07 16:00:17,182 INFO 93195 [egg-view-nunjucks] loading templates from ["/Users/aliomarkhan/Desktop/experiment/egg-example/app/view"]
+2017-11-07 16:00:53,061 INFO 93215 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 16:00:53,090 INFO 93215 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 16:00:53,090 INFO 93215 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 16:00:53,127 INFO 93215 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 16:00:53,130 INFO 93215 [egg-security] use csrf middleware
+2017-11-07 16:00:53,131 INFO 93215 [egg-security] use methodnoallow middleware
+2017-11-07 16:00:53,131 INFO 93215 [egg-security] use noopen middleware
+2017-11-07 16:00:53,132 INFO 93215 [egg-security] use nosniff middleware
+2017-11-07 16:00:53,133 INFO 93215 [egg-security] use xssProtection middleware
+2017-11-07 16:00:53,133 INFO 93215 [egg-security] use xframe middleware
+2017-11-07 16:00:53,133 INFO 93215 [egg-security] use dta middleware
+2017-11-07 16:00:53,133 INFO 93215 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 16:00:53,170 INFO 93215 [egg-watcher:app] watcher start success
+2017-11-07 16:00:57,740 INFO 93215 [egg-view-nunjucks] loading templates from ["/Users/aliomarkhan/Desktop/experiment/egg-example/app/view"]
+2017-11-07 16:01:17,382 INFO 93231 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 16:01:17,417 INFO 93231 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 16:01:17,417 INFO 93231 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 16:01:17,455 INFO 93231 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 16:01:17,457 INFO 93231 [egg-security] use csrf middleware
+2017-11-07 16:01:17,458 INFO 93231 [egg-security] use methodnoallow middleware
+2017-11-07 16:01:17,458 INFO 93231 [egg-security] use noopen middleware
+2017-11-07 16:01:17,459 INFO 93231 [egg-security] use nosniff middleware
+2017-11-07 16:01:17,460 INFO 93231 [egg-security] use xssProtection middleware
+2017-11-07 16:01:17,460 INFO 93231 [egg-security] use xframe middleware
+2017-11-07 16:01:17,460 INFO 93231 [egg-security] use dta middleware
+2017-11-07 16:01:17,461 INFO 93231 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 16:01:17,497 INFO 93231 [egg-watcher:app] watcher start success
+2017-11-07 16:01:20,582 INFO 93231 [egg-view-nunjucks] loading templates from ["/Users/aliomarkhan/Desktop/experiment/egg-example/app/view"]
+2017-11-07 16:01:52,657 INFO 93248 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 16:01:52,694 INFO 93248 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 16:01:52,694 INFO 93248 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 16:01:52,739 INFO 93248 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 16:01:52,742 INFO 93248 [egg-security] use csrf middleware
+2017-11-07 16:01:52,743 INFO 93248 [egg-security] use methodnoallow middleware
+2017-11-07 16:01:52,743 INFO 93248 [egg-security] use noopen middleware
+2017-11-07 16:01:52,745 INFO 93248 [egg-security] use nosniff middleware
+2017-11-07 16:01:52,746 INFO 93248 [egg-security] use xssProtection middleware
+2017-11-07 16:01:52,747 INFO 93248 [egg-security] use xframe middleware
+2017-11-07 16:01:52,747 INFO 93248 [egg-security] use dta middleware
+2017-11-07 16:01:52,747 INFO 93248 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 16:01:52,792 INFO 93248 [egg-watcher:app] watcher start success
+2017-11-07 16:01:56,107 INFO 93248 [egg-view-nunjucks] loading templates from ["/Users/aliomarkhan/Desktop/experiment/egg-example/app/view"]
+2017-11-07 16:02:17,923 INFO 93266 [egg:logger] init all loggers with options: {"dir":"/Users/aliomarkhan/Desktop/experiment/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-07 16:02:17,954 INFO 93266 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-07 16:02:17,954 INFO 93266 [egg-schedule]: register schedule /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-07 16:02:17,989 INFO 93266 [egg-static] starting static serve /public/ -> /Users/aliomarkhan/Desktop/experiment/egg-example/app/public
+2017-11-07 16:02:17,992 INFO 93266 [egg-security] use csrf middleware
+2017-11-07 16:02:17,993 INFO 93266 [egg-security] use methodnoallow middleware
+2017-11-07 16:02:17,994 INFO 93266 [egg-security] use noopen middleware
+2017-11-07 16:02:17,994 INFO 93266 [egg-security] use nosniff middleware
+2017-11-07 16:02:17,995 INFO 93266 [egg-security] use xssProtection middleware
+2017-11-07 16:02:17,996 INFO 93266 [egg-security] use xframe middleware
+2017-11-07 16:02:17,996 INFO 93266 [egg-security] use dta middleware
+2017-11-07 16:02:17,996 INFO 93266 [egg-security] compose 7 middlewares into one security middleware
+2017-11-07 16:02:18,031 INFO 93266 [egg-watcher:app] watcher start success
+2017-11-07 16:02:24,555 INFO 93266 [egg-view-nunjucks] loading templates from ["/Users/aliomarkhan/Desktop/experiment/egg-example/app/view"]

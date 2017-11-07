@@ -1,0 +1,163 @@
+2017-11-07 15:40:08,444 ERROR 92913 [-/127.0.0.1/-/3ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/aliomarkhan/Desktop/experiment/egg-example/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/co/index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: ''
+expected: true
+operator: '=='
+pid: 92913
+hostname: bogon
+
+2017-11-07 15:41:05,578 ERROR 92927 [-/127.0.0.1/-/10ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/aliomarkhan/Desktop/experiment/egg-example/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/co/index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: ''
+expected: true
+operator: '=='
+pid: 92927
+hostname: bogon
+
+2017-11-07 15:41:55,785 ERROR 92927 [-/127.0.0.1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/aliomarkhan/Desktop/experiment/egg-example/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/co/index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: ''
+expected: true
+operator: '=='
+pid: 92927
+hostname: bogon
+
+2017-11-07 15:42:13,254 ERROR 92948 [-/127.0.0.1/-/8ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/aliomarkhan/Desktop/experiment/egg-example/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/co/index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: ''
+expected: true
+operator: '=='
+pid: 92948
+hostname: bogon
+
+2017-11-07 15:42:28,002 ERROR 92961 [-/127.0.0.1/-/9ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/aliomarkhan/Desktop/experiment/egg-example/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/co/index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: ''
+expected: true
+operator: '=='
+pid: 92961
+hostname: bogon
+
+2017-11-07 15:48:52,307 ERROR 93020 [-/127.0.0.1/-/8ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-view/lib/context_view.js:93:5)
+    at ContextView.[contextView#render] (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/egg-view/lib/context_view.js:74:39)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/co/index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 93020
+hostname: bogon
+
+2017-11-07 15:58:26,422 ERROR 93165 [-/127.0.0.1/-/1649ms GET /news] nodejs.ReferenceError: dataList is not defined
+    at NewsController.list (/Users/aliomarkhan/Desktop/experiment/egg-example/app/controller/news.js:7:46)
+    at list.next (<anonymous>)
+    at onFulfilled (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/co/index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 93165
+hostname: bogon
+
+2017-11-07 16:00:17,195 ERROR 93195 [-/127.0.0.1/-/1607ms GET /news] nodejs.Template render error: (/Users/aliomarkhan/Desktop/experiment/egg-example/app/view/news/list.tpl)
+  Error: Unable to call `helper["relativeTime"]`, which is undefined or falsey
+  Error: Unable to call `helper["relativeTime"]`, which is undefined or falsey
+    at Object.exports.prettifyError (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/lib.js:34:15)
+    at /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:489:31
+    at new_cls.root [as rootRenderFunc] (eval at _compile (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:568:24), <anonymous>:17:3)
+    at new_cls.render (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:482:15)
+    at /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:313:35
+    at createTemplate (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:235:25)
+    at handle (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:250:25)
+    at /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:264:21
+    at next (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/lib.js:207:13)
+    at Object.exports.asyncIter (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/lib.js:214:5)
+name: 'Template render error'
+pid: 93195
+hostname: bogon
+
+2017-11-07 16:01:20,599 ERROR 93231 [-/127.0.0.1/-/1610ms GET /news] nodejs.Template render error: (/Users/aliomarkhan/Desktop/experiment/egg-example/app/view/news/list.tpl) [Line 6, Column 27]
+  Error: Unable to call `helper["relativeTime"]`, which is undefined or falsey
+  Error: Unable to call `helper["relativeTime"]`, which is undefined or falsey
+    at Object.exports.prettifyError (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/lib.js:34:15)
+    at /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:489:31
+    at new_cls.root [as rootRenderFunc] (eval at _compile (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:568:24), <anonymous>:41:3)
+    at new_cls.render (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:482:15)
+    at /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:313:35
+    at createTemplate (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:235:25)
+    at handle (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:250:25)
+    at /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:264:21
+    at next (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/lib.js:207:13)
+    at Object.exports.asyncIter (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/lib.js:214:5)
+name: 'Template render error'
+pid: 93231
+hostname: bogon
+
+2017-11-07 16:01:56,123 ERROR 93248 [-/127.0.0.1/-/2028ms GET /news] nodejs.Template render error: (/Users/aliomarkhan/Desktop/experiment/egg-example/app/view/news/list.tpl) [Line 6, Column 32]
+  Error: Unable to call `helper["relativeTime"]`, which is undefined or falsey
+  Error: Unable to call `helper["relativeTime"]`, which is undefined or falsey
+    at Object.exports.prettifyError (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/lib.js:34:15)
+    at /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:489:31
+    at new_cls.root [as rootRenderFunc] (eval at _compile (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:568:24), <anonymous>:41:3)
+    at new_cls.render (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:482:15)
+    at /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:313:35
+    at createTemplate (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:235:25)
+    at handle (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:250:25)
+    at /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:264:21
+    at next (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/lib.js:207:13)
+    at Object.exports.asyncIter (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/lib.js:214:5)
+name: 'Template render error'
+pid: 93248
+hostname: bogon
+
+2017-11-07 16:02:01,842 ERROR 93248 [-/127.0.0.1/-/1619ms GET /news] nodejs.Template render error: (/Users/aliomarkhan/Desktop/experiment/egg-example/app/view/news/list.tpl) [Line 6, Column 32]
+  Error: Unable to call `helper["relativeTime"]`, which is undefined or falsey
+  Error: Unable to call `helper["relativeTime"]`, which is undefined or falsey
+    at Object.exports.prettifyError (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/lib.js:34:15)
+    at /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:489:31
+    at new_cls.root [as rootRenderFunc] (eval at _compile (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:568:24), <anonymous>:41:3)
+    at new_cls.render (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:482:15)
+    at /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:313:35
+    at createTemplate (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:235:25)
+    at handle (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:250:25)
+    at /Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/environment.js:264:21
+    at next (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/lib.js:207:13)
+    at Object.exports.asyncIter (/Users/aliomarkhan/Desktop/experiment/egg-example/node_modules/nunjucks/src/lib.js:214:5)
+name: 'Template render error'
+pid: 93248
+hostname: bogon
+
